@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = thaisc.carreira@gmail.com
+	name = ThaisCarreira
